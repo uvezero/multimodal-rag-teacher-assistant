@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+*.egg-info/
+
+# Logs
+*.log
+
+# Database files
+chromadb_store/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Ignore files in specific folders
+bin/
+images/
+jane/
+john/
+notebooks/
+
+# Allow README.md in ignored folders
+!bin/README.md
+!images/README.md
+!jane/README.md
+!john/README.md
+!notebooks/README.md
