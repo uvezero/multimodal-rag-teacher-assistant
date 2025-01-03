@@ -5,7 +5,7 @@ A multimodal chatbot for teachers to tailor different tasks to specific students
 
 
 
-![Demo in Gradio](/home/juan/Documents/python/Portfolio projects/multimodal-rag-teacher-assistant/display/Screenshot from 2025-01-03 10-57-31.png)
+![Demo in Gradio](display/demo.png)
 
 > **Demo in Gradio**: The interface allows text and image inputs, tailored responses for students, and an intuitive layout.
 
